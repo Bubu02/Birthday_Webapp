@@ -50,7 +50,7 @@ langsmith==0.0.92
 litellm==1.2.0
 llama-index==0.9.4
 llmsherpa==0.1.4
-lyzr @ file:///C:/Users/mebub_9a7jdi8/Desktop/AI%20Webapp/lyzr/dist/lyzr-0.1.25-py3-none-any.whl#sha256=c401e916ad9d4fc1c058fac526c0aa74fa3d364937dafb040774ce9ba79ea189
+# lyzr @ file:///C:/Users/mebub_9a7jdi8/Desktop/AI%20Webapp/lyzr/dist/lyzr-0.1.25-py3-none-any.whl#sha256=c401e916ad9d4fc1c058fac526c0aa74fa3d364937dafb040774ce9ba79ea189
 markdown-it-py==3.0.0
 MarkupSafe==2.1.3
 marshmallow==3.21.0
