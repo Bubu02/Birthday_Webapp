@@ -93,7 +93,7 @@ pytesseract==0.3.10
 python-dateutil==2.8.2
 python-dotenv==1.0.1
 pytweening==1.0.7
-pywin32==306
+# pywin32==306
 pywin32-ctypes==0.2.2
 regex==2023.12.25
 rich==13.8.1
